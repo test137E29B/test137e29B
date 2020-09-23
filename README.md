@@ -14,7 +14,7 @@ These range from some where I am **trying to learn a new language/framework**, t
 
 In summary, you can expect to find various projects related to:
 
-🥇 **Discord Bot** Development ([Discord.JS](https://github.com/DV8FromTheWorld/JDA))
+🥇 **Discord Bot** Development ([JDA](https://github.com/DV8FromTheWorld/JDA)/[Discord.js](https://github.com/discordjs/discord.js/))
 
 🥈 **Full-Stack Web** Development ([React](https://github.com/facebook/react)/[Node.js](https://github.com/nodejs/node))
 
