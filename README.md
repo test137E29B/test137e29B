@@ -24,7 +24,7 @@ In summary, you can expect to find various projects related to:
 
 According to some _data-crunching ✨ magic_ ✨, here are the programming languages that I am most interested in:
 
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=test137e29B&layout=compact&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=test137e29B&langs_count=10&hide_title=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **test137e29B/test137e29B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
